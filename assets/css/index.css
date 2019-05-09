@@ -1,0 +1,134 @@
+body{
+background-color:white;
+background-repeat: no-repeat;
+background-attachment: fixed;
+background-position: center;
+background-size: cover;
+z-index:-999;
+}
+.brand {
+font-size: 40px;
+font-family: "Gloria Hallelujah";
+}
+
+.nav-item{
+padding:10px;
+margin-bottom: -1px;
+font-family: "微軟正黑體";
+
+}
+.nav-item:hover{
+transform:scale(1.2,1.2);
+font-weight: bolder;
+
+}
+.bg-content{
+background:ghostwhite;
+
+}
+.banner_img{
+	width:100%;
+	height:25%;
+	margin:0px;
+	padding:0px;
+}
+
+.backgroundGray
+{
+	background-color:whitesmoke;
+}
+.card-title{
+	font-family: "微軟正黑體";
+	font-weight: bolder;}
+.aboutcard:hover{
+
+	background-color:#E8CCFF;
+}
+.backgroundTitle {
+	font-family: "微軟正黑體";
+}
+.Aboutme{
+	font-family: "微軟正黑體";
+
+}
+.backgroundImg{
+	width: 130px;
+	height:130px;
+}
+.backgroundContent{
+	font-family: "微軟正黑體";
+	
+	font-weight: bold;
+}
+
+.interestImg{
+	height:100px;
+	width:100px;
+}
+ul li
+{
+	list-style:none;
+	padding:10px;
+	font-size: 20px;
+	font-weight: bold;
+}
+.SocietyImg{
+	height:220px;
+	max-width: 270px;
+}
+.lifeCard{
+	width:250px;
+
+}
+.lifeCard:hover{
+	transform: scale(1.1);
+}
+.card:hover{
+	transform: scale(1.1);
+	background-color: salmon	;
+	color:white;
+
+}
+.footerBackground{
+
+	font-family:微軟正黑體; 
+	font-size: 20px;
+	padding:50px;
+}
+.goalImg{
+	height:200px;
+	width:200px;
+}
+.sideImg1
+{
+	position: fixed;
+	right:0px;
+	top:170px;
+	
+
+}
+.sideImg2
+{
+	position: fixed;
+	right:0px;
+	top:235px;
+	
+
+}
+.sideImg
+{
+	position: fixed;
+	right:0px;
+	top:300px;
+	
+
+}
+.sideImg:hover{
+	transform: scale(1.1);
+}
+.sideImg1:hover{
+	transform: scale(1.1);
+}
+.sideImg2:hover{
+	transform: scale(1.1);
+}
